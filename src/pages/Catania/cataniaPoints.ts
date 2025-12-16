@@ -997,6 +997,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Le terme « Fiera di Catania » englobe à la fois le marché de rue quotidien historique appelé Fera \'o Luni sur la Piazza Carlo Alberto — l’un des plus grands et des plus colorés marchés traditionnels de Sicile — et les centres d’exposition modernes Le Ciminiere et SiciliaFiera, qui accueillent salons professionnels, événements culturels et expositions tout au long de l’année.',
     }),
     coordinates: [37.5065, 15.088],
+    videoUrl: 'https://www.youtube.com/embed/2iNnKrVsqxg?autoplay=1&mute=1&loop=1&playlist=2iNnKrVsqxg',
     images: [
       'https://cdn.loquis.com/prod/loquis/pictures/31269ea6-f4e5-466e-9ee8-fa6e68d090c0-720.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-s/05/47/69/15/mercato-piazza-carlo.jpg',
