@@ -585,6 +585,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: "Imaginez le grondement des foules dans ce vaste amphithéâtre qui accueillait jadis des milliers de personnes près de l'actuelle Piazza Stesicoro.",
     }),
     coordinates: [37.5061, 15.087],
+    videoUrl: 'https://www.youtube.com/embed/JucPo9Cf1dE?autoplay=1&mute=1&loop=1&playlist=JucPo9Cf1dE',
     images: [
       'https://parchiarcheologici.regione.sicilia.it/catania-valle-aci/wp-content/uploads/sites/6/2020/09/ParcoArcheoCatania_0317-1920x1280.jpg?v=1638435877',
     ],
@@ -748,7 +749,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Faites une pause dans ce parc en terrasses garni de palmiers, massifs fleuris et belvédères sur le centre historique.',
     }),
     coordinates: [37.5078, 15.0888],
-    videoUrl: 'https://www.youtube.com/embed/JucPo9Cf1dE?autoplay=1&mute=1&loop=1&playlist=JucPo9Cf1dE',
+    videoUrl: 'https://www.youtube.com/embed/DeVRrYyLMmE?autoplay=1&mute=1&loop=1&playlist=DeVRrYyLMmE',
     images: [
       'https://www.antichevolte.it/wp-content/uploads/2019/12/parco-villa-bellini-catania.jpg',
       'https://img1.oastatic.com/img2/94097207/max/variant.jpg',
