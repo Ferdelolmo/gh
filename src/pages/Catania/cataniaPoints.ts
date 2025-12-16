@@ -665,7 +665,9 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: "L'artère principale de Catane mène vers l'Etna, mêlant boutiques élégantes, cafés et vues saisissantes sur le volcan.",
     }),
     coordinates: [37.5063, 15.0885],
+    videoUrl: 'https://www.youtube.com/embed/MrhcvUcJQU8?autoplay=1&mute=1&loop=1&playlist=MrhcvUcJQU8',
     images: [
+
       'https://101-zone.com/wp-content/uploads/2023/12/0A1A1936-HDR.jpg-Catania-il-Duomo-e-la-via-Etnea-a-Natale.jpg',
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1HwdItONJimAAo2_xrt-Ky0yhsZGuG7nPA&s',
     ],
@@ -746,6 +748,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Faites une pause dans ce parc en terrasses garni de palmiers, massifs fleuris et belvédères sur le centre historique.',
     }),
     coordinates: [37.5078, 15.0888],
+    videoUrl: 'https://www.youtube.com/embed/JucPo9Cf1dE?autoplay=1&mute=1&loop=1&playlist=JucPo9Cf1dE',
     images: [
       'https://www.antichevolte.it/wp-content/uploads/2019/12/parco-villa-bellini-catania.jpg',
       'https://img1.oastatic.com/img2/94097207/max/variant.jpg',
