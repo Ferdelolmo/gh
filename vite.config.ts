@@ -6,6 +6,7 @@ import faroUploader from "@grafana/faro-rollup-plugin";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
+  const apiKey = process.env.GRAFANA_FARO_API_KEY || env.GRAFANA_FARO_API_KEY;
   return {
     server: {
       host: "::",
@@ -19,7 +20,7 @@ export default defineConfig(({ mode }) => {
         appId: "4365",
         stackId: "1266807",
         verbose: true,
-        apiKey: env.GRAFANA_FARO_API_KEY,
+        apiKey: apiKey,
         gzipContents: true,
       }),
     ].filter(Boolean),
