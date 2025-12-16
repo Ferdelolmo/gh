@@ -339,6 +339,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'La forteresse du XIIIe siècle de Frédéric II abrite aujourd\'hui le musée civique, gardant œuvres et reliques rescapées des éruptions.',
     }),
     coordinates: [37.5011, 15.0879],
+    videoUrl: 'https://www.youtube.com/embed/Hpj5QoeRH28?autoplay=1&mute=1&loop=1&playlist=Hpj5QoeRH28',
     images: [
       'https://www.progettostoriadellarte.it/wp-content/uploads/2021/04/fig.-7-2.jpg',
     ],
@@ -831,6 +832,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Pénétrez dans cette somptueuse demeure aristocratique aux salles fresquées, galeries miroitantes et récits de royauté en visite.',
     }),
     coordinates: [37.5017, 15.09],
+    videoUrl: 'https://www.youtube.com/embed/PTMCQifMmKI?autoplay=1&mute=1&loop=1&playlist=PTMCQifMmKI',
     images: [
       'https://www.dimorestoricheitaliane.it/wp-content/uploads/2024/04/palazzo-biscari-1.jpg',
       'https://www.opera-lirica.com/img/cms/Palazzo-Biscari.jpg',
