@@ -684,6 +684,19 @@ export const avilaPoints: PointOfInterest[] = [
     images: [
       'https://monasteriosantotomas.com/wp-content/uploads/claustro-del-noviciado-monasterio-de-santo-tomas-1.jpg',
       'https://www.unaventanadesdemadrid.com/objetos/avilaii/sepulcro-principe-juan.jpg',
+      'https://i.imgur.com/94C669L.jpeg',
+      'https://i.imgur.com/lJ1VJvO.jpeg',
+      'https://i.imgur.com/fO2C4MO.jpeg',
+      'https://i.imgur.com/VVH4AVF.jpeg',
+      'https://i.imgur.com/eCwA5PS.jpeg',
+      'https://i.imgur.com/irRWy7m.jpeg',
+      'https://i.imgur.com/BNayFVY.jpeg',
+      'https://i.imgur.com/TbMoBfD.jpeg',
+      'https://i.imgur.com/9ayz17v.jpeg',
+      'https://i.imgur.com/7KHI8Rz.jpeg',
+      'https://i.imgur.com/scK1lpZ.jpeg',
+      'https://i.imgur.com/fUflClx.jpeg',
+      'https://i.imgur.com/nhKEjRP.jpeg',
     ],
     audioUrl: text({
       en: 'https://ia801001.us.archive.org/16/items/santo-tomas-en/SantoTomasEN.m4a',
@@ -880,6 +893,10 @@ export const avilaPoints: PointOfInterest[] = [
     images: [
       'https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/castilla-leon/monasterio_encarnacion_avila_t0500642.jpg_1014274486.jpg',
       'https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/castilla-leon/la-encarnacion-avila-c-grupo-ciudades-patrimonio-humanidad.jpg',
+      'https://www.avilaturismo.com/wp-content/uploads/CONVENTO-ENCARNACION-05.jpg',
+      'https://www.avilaturismo.com/wp-content/uploads/CONVENTO-ENCARNACION-02-3.jpg',
+      'https://www.avilaturismo.com/wp-content/uploads/CONVENTO-ENCARNACION-15.jpg',
+
     ],
     audioUrl: text({
       en: 'https://example.com/audio/monasterio-encarnacion-en.mp3',
@@ -938,6 +955,7 @@ export const avilaPoints: PointOfInterest[] = [
     coordinates: [40.6547, -4.6952],
     images: [
       'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Avila_Santo_Tome_el_Viejo.JPG/760px-Mapcarta.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%C3%81vila._Casa_de_los_Deanes_1.JPG/760px-Mapcarta.jpg',
     ],
     audioUrl: text({
       en: 'https://example.com/audio/plaza-italia-en.mp3',
@@ -996,6 +1014,7 @@ export const avilaPoints: PointOfInterest[] = [
     coordinates: [40.6559, -4.6958],
     images: [
       'https://upload.wikimedia.org/wikipedia/commons/f/fe/Murallas_de_%C3%81vila%2C_Puerta_del_Peso_de_la_Harina%2C_Casa_de_las_Carnicer%C3%ADas_45.JPG',
+      'https://todosobreavila.es/wp-content/uploads/2025/04/2-ARCO-DEL-PESO-DE-LA-HARINA-2048x1366.jpg',
     ],
     audioUrl: text({
       en: 'https://example.com/audio/puerta-carnicerias-en.mp3',
