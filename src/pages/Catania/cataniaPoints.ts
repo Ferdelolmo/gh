@@ -60,7 +60,7 @@ export const cataniaPoints: PointOfInterest[] = [
             es: "En el centro se alza la icónica Fontana dell'Elefante, con un elefante de basalto negro conocido cariñosamente como 'u Liotru'. Creada por el arquitecto Giovanni Battista Vaccarini entre 1735 y 1737, la fuente se inspiró en el Elefante y Obelisco de Bernini en Roma. El elefante, tallado en piedra volcánica, se remonta a época romana, mientras que el obelisco egipcio sobre su lomo mide 3,66 metros de altura.",
             it: "Al centro si erge l'iconica Fontana dell'Elefante, con un elefante in basalto nero affettuosamente chiamato 'u Liotru'. Realizzata dall'architetto Giovanni Battista Vaccarini tra il 1735 e il 1737, la fontana s'ispira all'Elefante e Obelisco di Bernini a Roma. L'elefante, scolpito in pietra lavica, risale all'epoca romana, mentre l'obelisco egizio sulla sua schiena è alto 3,66 metri.",
             pt: "No centro ergue-se a icónica Fontana dell'Elefante, com um elefante de basalto negro conhecido carinhosamente como 'u Liotru'. Criada pelo arquiteto Giovanni Battista Vaccarini entre 1735 e 1737, a fonte foi inspirada no Elefante e Obelisco de Bernini, em Roma. O elefante, esculpido em pedra vulcânica, remonta à época romana, enquanto o obelisco egípcio sobre suas costas tem 3,66 metros de altura.",
-            fr: "Au centre se dresse l'emblématique Fontana dell'Elefante, avec un éléphant en basalte noir surnommé avec affection 'u Liotru'. Conçue par l'architecte Giovanni Battista Vaccarini entre 1735 et 1737, la fontaine s'inspire de l'Éléphant et Obélisque de Bernini à Rome. L'éléphant, taillé dans la pierre de lave, remonte à l'époque romaine, tandis que l'obélisque égyptien posé sur son dos mesure 3,66 mètres.",
+            fr: "Au centre se dresse l'emblématique Fontana dell'Elefante, avec un éléphant en basalte noir surnommé avec affection 'u Liotru'. Conçue par l'architecte Giovanni Battista Vaccarini entre 1735 e 1737, la fontaine s'inspire de l'Éléphant et Obélisque de Bernini à Rome. L'éléphant, taillé dans la pierre de lave, remonte à l'époque romaine, tandis que l'obélisque égyptien posé sur son dos mesure 3,66 mètres.",
           }),
           text({
             en: "Local legends offer different explanations for the elephant's symbolism. One tale recalls the Byzantine magician Eliodoro riding an elephant through the streets, inspiring the name 'Liotru'. Another links the statue to a Catanese victory over Libyan forces and their war elephants. For residents, the elephant protects the city from Mount Etna's eruptions and remains its most beloved emblem.",
@@ -104,6 +104,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Dédiée à Sainte Agathe, la cathédrale marie des fondations normandes à de somptueux intérieurs baroques façonnés par l\'Etna.',
     }),
     coordinates: [37.5025, 15.0872],
+    videoUrl: 'https://www.youtube.com/embed/M_NxnHrOrXw?autoplay=1&mute=1&loop=1&playlist=M_NxnHrOrXw',
     images: [
       'https://www.turismo.it/typo3temp/pics/ca5b2fcbac.jpg',
       'https://www.cittaecattedrali.it/system/media_images/figures/000/002/613/large/DSC_1311.jpg?1431523397',
@@ -179,6 +180,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Vitrine du baroque de Catane, cette rue élégante aligne églises, couvents et palais reconstruits après le séisme de 1693.',
     }),
     coordinates: [37.5042, 15.0889],
+    videoUrl: 'https://www.youtube.com/embed/mk3SsTXTwS8?autoplay=1&mute=1&loop=1&playlist=mk3SsTXTwS8',
     images: [
       'https://melagodoinsicilia.it/wp-content/uploads/2019/09/arco-Benedettine-1024x695.jpg',
     ],
@@ -259,6 +261,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'L\'un des plus grands monastères d\'Europe, aujourd\'hui campus universitaire, où cloîtres, jardins et coulées de lave racontent une histoire étonnante.',
     }),
     coordinates: [37.5056, 15.0739],
+    videoUrl: 'https://www.youtube.com/embed/S5OpoSZwbNo?autoplay=1&mute=1&loop=1&playlist=S5OpoSZwbNo',
     images: [
       'https://www.monasterodeibenedettini.it/wp-content/uploads/2024/08/2.jpg',
     ],
@@ -420,6 +423,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Plongez dans le marché aux poissons animé où les vendeurs chantent, les habitants négocient et les produits de l\'Etna arrivent frais chaque matin.',
     }),
     coordinates: [37.5028, 15.087],
+    videoUrl: 'https://www.youtube.com/embed/t6zcRxlxOiI?autoplay=1&mute=1&loop=1&playlist=t6zcRxlxOiI',
     images: [
       'https://siviaggia.it/wp-content/uploads/sites/2/2020/06/catania-mercato-pesce.jpg',
       'https://www.casadaria.it/wp-content/uploads/2016/03/pescheria.jpg',
@@ -503,6 +507,7 @@ export const cataniaPoints: PointOfInterest[] = [
       fr: 'Partiellement dégagé sous des maisons ultérieures, ce théâtre romain dévoile gradins de marbre, mosaïques et strates du passé antique de Catane.',
     }),
     coordinates: [37.5034, 15.0881],
+    videoUrl: 'https://www.youtube.com/embed/BrQgx6lP1YY?autoplay=1&mute=1&loop=1&playlist=BrQgx6lP1YY',
     images: [
       'https://parchiarcheologici.regione.sicilia.it/catania-valle-aci/wp-content/uploads/sites/6/2020/12/ParcoArcheoCatania_0233-1920x1080.jpg?v=1638435828',
       'https://media.cultura.gov.it/mibac/files/boards/388a5474724a15af0ace7a40ab3301de/Sicilia/Catania/Catania,%20Teatro%20Romano%20e%20Odeon%20di%20Catania.JPEG',
