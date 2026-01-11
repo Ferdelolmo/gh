@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
   const apiKey = process.env.GRAFANA_FARO_API_KEY || env.GRAFANA_FARO_API_KEY;
   return {
-    base: "/gh/",
+    base: mode === "production" ? "/gh/" : "/",
     server: {
       host: "::",
       port: 8080,
