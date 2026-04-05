@@ -212,8 +212,8 @@ export const palaces: Palace[] = [
     publicAccess: 'partial',
     entryType: 'free',
     images: [
-      'https://placehold.co/800x600?text=Palacio+de+Nunez+Vela',
-      'https://placehold.co/800x600?text=Torreon+Nunez+Vela',
+      'https://www.avilaturismo.com/wp-content/uploads/PALACIO-NUNEZ-VELA-01.jpg',
+      'https://www.avilaturismo.com/wp-content/uploads/PALACIO-NUNEZ-VELA-02.jpg',
     ]
   },
   {
@@ -242,8 +242,8 @@ export const palaces: Palace[] = [
     publicAccess: 'public',
     entryType: 'free',
     images: [
-      'https://placehold.co/800x600?text=Palacio+de+los+Serrano',
-      'https://placehold.co/800x600?text=Centro+Cultural+Serrano',
+      'https://www.turismocastillayleon.com/es/patrimonio-cultura/palacios/palacio-serrano/es/patrimonio-cultura/palacios/palacio-serrano.ficheros/39303-40615_SX_0_bic.jpg/39303-40615_SX_0_bic.jpg',
+      'https://i.imgur.com/zlp1vxX.png',
     ]
   },
   {
@@ -272,8 +272,8 @@ export const palaces: Palace[] = [
     publicAccess: 'partial',
     entryType: 'free',
     images: [
-      'https://placehold.co/800x600?text=Palacio+de+Bracamonte',
-      'https://placehold.co/800x600?text=Patio+Palacio+Bracamonte',
+      'https://www.avilaturismo.com/wp-content/uploads/PALACIO-BRACAMONTE-01-2.jpg',
+      'https://www.avilaturismo.com/wp-content/uploads/Avila-Palacio-de-Bracamonte-_N813384.jpg',
     ]
   },
   {
@@ -296,8 +296,7 @@ export const palaces: Palace[] = [
     publicAccess: 'private',
     entryType: 'ticket',
     images: [
-      'https://placehold.co/800x600?text=Palacio+de+los+Almarza',
-      'https://placehold.co/800x600?text=Fachada+Palacio+Almarza',
+      'https://www.avilaturismo.com/wp-content/uploads/Avila-Palacio-de-los-Almarza-_N812521.jpg',
     ]
   }
 ];

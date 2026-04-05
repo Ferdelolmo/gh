@@ -24,7 +24,7 @@ export const BottomNav = ({ activeTab, onTabChange, tabs }: BottomNavProps) => {
     'fun-facts': { icon: Sparkles, label: copy.bottomNav.funFacts },
   };
 
-  const renderedTabs = (tabs ?? ['map', 'places', 'park', 'eat', 'info']).map((id) => ({
+  const renderedTabs = (tabs ?? ['map', 'places', 'park', 'eat', 'fun-facts']).map((id) => ({
     id,
     icon: tabConfig[id].icon,
     label: tabConfig[id].label,
