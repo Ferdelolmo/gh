@@ -10,7 +10,9 @@ type DishKey =
   | 'scacciata'
   | 'caponata'
   | 'horseMeatDishes'
-  | 'seafoodSpecialties';
+  | 'seafoodSpecialties'
+  | 'involtini'
+  | 'seltzLimoneSale';
 type RestaurantKey =
   | 'trattoriaDaAntonio'
   | 'osteriaAnticaMarina'
@@ -70,7 +72,7 @@ const dishMetadata: Array<{ key: DishKey; image: string }> = [
   },
   {
     key: 'arancini',
-    image: 'https://arancinotto.com/cdn/shop/articles/Ricette-71_f58f7b03-18f3-4ce2-9312-1c6aa3835025.jpg?v=1758552148',
+    image: 'https://www.sicilyaddict.it/cdn/shop/articles/Arancini_ragu_2_0e77993b-1fbe-47d3-b786-3c5f526dc38f.jpg?v=1739198901',
   },
   {
     key: 'pesceSpadaAllaGhiotta',
@@ -99,6 +101,14 @@ const dishMetadata: Array<{ key: DishKey; image: string }> = [
   {
     key: 'seafoodSpecialties',
     image: 'https://blog.giallozafferano.it/azuccherozero/wp-content/uploads/2018/04/Pesce-spada-alla-griglia-o02.jpeg',
+  },
+  {
+    key: 'involtini',
+    image: 'https://staticcookist.akamaized.net/wp-content/uploads/sites/21/2024/07/Involtini-alla-siciliana.jpg',
+  },
+  {
+    key: 'seltzLimoneSale',
+    image: 'https://www.foodandwineitalia.com/wp-content/uploads/elementor/thumbs/Seltz-sale-e-limone-qr5ofrwqm5qvqjd28d44fo5zuef4ll1l7y3bjw3cxk.jpg',
   },
 ];
 
@@ -273,6 +283,16 @@ More than just a regional cuisine, <strong>Sicilian food tells the story of a di
         description:
           'Dishes like swordfish with tomatoes and olives, spaghetti alle vongole (clams) and other fresh seafood are common in Catania’s coastal cuisine.',
       },
+      involtini: {
+        name: 'Involtini',
+        description:
+          'Thinly sliced meat rolls stuffed with cheese, breadcrumbs, and herbs, grilled to perfection.',
+      },
+      seltzLimoneSale: {
+        name: 'Seltz Limone e Sale',
+        description:
+          'A refreshing typical drink from Catania’s chioschi, made with sparkling water, fresh lemon juice, and a pinch of salt.',
+      },
     },
     restaurants: {
       trattoriaDaAntonio: {
@@ -432,6 +452,16 @@ More than just a regional cuisine, <strong>Sicilian food tells the story of a di
         name: 'Especialidades de mariscos',
         description:
           'Platos como pez espada con tomates y aceitunas, espaguetis alle vongole y otros mariscos frescos son habituales en la cocina costera.',
+      },
+      involtini: {
+        name: 'Involtini',
+        description:
+          'Rollitos de carne en rodajas finas rellenos de queso, pan rallado y hierbas, asados a la perfección.',
+      },
+      seltzLimoneSale: {
+        name: 'Seltz Limone e Sale',
+        description:
+          'Una refrescante bebida típica de los quioscos de Catania, a base de agua con gas, zumo de limón fresco y una pizca de sal.',
       },
     },
     restaurants: {
@@ -593,6 +623,16 @@ More than just a regional cuisine, <strong>Sicilian food tells the story of a di
         description:
           'Piatti come pesce spada con pomodori e olive, spaghetti alle vongole e altri frutti di mare freschi sono comuni nella cucina costiera.',
       },
+      involtini: {
+        name: 'Involtini',
+        description:
+          'Involtini di carne ripieni di formaggio, pangrattato ed erbe, tipicamente cotti alla brace.',
+      },
+      seltzLimoneSale: {
+        name: 'Seltz Limone e Sale',
+        description:
+          'Bevanda dissetante tipica dei chioschi catanesi, preparata con acqua seltz, succo di limone fresco e un pizzico di sale.',
+      },
     },
     restaurants: {
       trattoriaDaAntonio: {
@@ -753,6 +793,16 @@ More than just a regional cuisine, <strong>Sicilian food tells the story of a di
         description:
           'Des plats comme l’espadon aux tomates et olives, les spaghetti alle vongole et d’autres fruits de mer frais sont courants dans la cuisine côtière.',
       },
+      involtini: {
+        name: 'Involtini',
+        description:
+          'Fines tranches de viande farcies de fromage, de chapelure et d\'herbes, puis finement grillées.',
+      },
+      seltzLimoneSale: {
+        name: 'Seltz Limone e Sale',
+        description:
+          'Une boisson rafraîchissante typique des kiosques de Catane, composée d\'eau gazeuse, de jus de citron frais et d\'une pincée de sel.',
+      },
     },
     restaurants: {
       trattoriaDaAntonio: {
@@ -912,6 +962,16 @@ More than just a regional cuisine, <strong>Sicilian food tells the story of a di
         name: 'Especialidades de frutos do mar',
         description:
           'Pratos como espada com tomates e azeitonas, spaghetti alle vongole e outros frutos do mar frescos abundam na culinária costeira.',
+      },
+      involtini: {
+        name: 'Involtini',
+        description:
+          'Rolinhos de carne finamente fatiados, recheados com queijo, pão ralado e ervas, perfeitamente grelhados.',
+      },
+      seltzLimoneSale: {
+        name: 'Seltz Limone e Sale',
+        description:
+          'Uma bebida típica e refrescante dos quiosques de Catânia, feita com água com gás, sumo de limão fresco e uma pitada de sal.',
       },
     },
     restaurants: {
